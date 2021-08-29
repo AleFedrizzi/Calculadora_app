@@ -1,0 +1,10 @@
+C:\Users\bruno\Desktop\WinForms\CalculadoraC\CalculadoraC\bin\Debug\CalculadoraC.exe.config
+C:\Users\bruno\Desktop\WinForms\CalculadoraC\CalculadoraC\bin\Debug\CalculadoraC.exe
+C:\Users\bruno\Desktop\WinForms\CalculadoraC\CalculadoraC\bin\Debug\CalculadoraC.pdb
+C:\Users\bruno\Desktop\WinForms\CalculadoraC\CalculadoraC\obj\Debug\CalculadoraC.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\WinForms\CalculadoraC\CalculadoraC\obj\Debug\CalculadoraC.Form1.resources
+C:\Users\bruno\Desktop\WinForms\CalculadoraC\CalculadoraC\obj\Debug\CalculadoraC.Properties.Resources.resources
+C:\Users\bruno\Desktop\WinForms\CalculadoraC\CalculadoraC\obj\Debug\CalculadoraC.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\WinForms\CalculadoraC\CalculadoraC\obj\Debug\CalculadoraC.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\WinForms\CalculadoraC\CalculadoraC\obj\Debug\CalculadoraC.exe
+C:\Users\bruno\Desktop\WinForms\CalculadoraC\CalculadoraC\obj\Debug\CalculadoraC.pdb
